@@ -5,13 +5,12 @@
 ##### H5
 ###### H6
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Logo of Markdown Language](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
 
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```javascript
+const learn = "GitHub Markdown"
 ```
 # Make a List
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+- [ ] List 1 (uncompleted)
+- [ ] List 2 (uncompleted)
+- [x] List 3 (completed)
