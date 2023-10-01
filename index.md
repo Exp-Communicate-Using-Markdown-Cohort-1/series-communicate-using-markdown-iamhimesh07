@@ -21,3 +21,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 const xyz = "GitHub Markdown"
 ```
+# Make a List
+- [x] This item is complete
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
